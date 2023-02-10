@@ -53,6 +53,20 @@ We can see that it the number of possible instance was upgraded on GCP as well:
 
 ![](./media/scale-up-cloud.png)
 
+# 4. Monitoring dashboard (screenshot of prometheus+grafana dashboard OR screenshot of your GPC dashboard)
+
+We monitored application using Prometheus:
+
+![](./media/monitor1.png)
+
+![](./media/monitor2.png)
+
+![](./media/monitor3.png)
+
+
+And checked health using GCP:
+
+![](./media/gcp.png)
 
 # 5. Load injection with Gatling for demonstrating scalability (screenshot of grafana OR screenshot of your GPC dashboard + link to your gatling report)
 
