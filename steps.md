@@ -1,7 +1,7 @@
 # 1. Firstname, Lastname, Github ID and Email address of the 3 members of the homework group. Link to the Github repositories of your homework.
 
-* Junior N'nane (https://gihub.com/nprime496)
-* Saliou Diagne (https://gihub.com/dianecs)
+* Junior N'nane (https://gihub.com/nprime496) / Mail  : dieudonne-junior.n-nane@grenoble-inp.org
+* Cheikh Saliou Diagne (https://gihub.com/diagnecs) / Mail : cheikh-saliou.diagne@grenoble-inp.org
 
 Repo of Homework:
 
