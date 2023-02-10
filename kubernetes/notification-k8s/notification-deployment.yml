@@ -46,7 +46,7 @@ spec:
               done
       containers:
         - name: notification-app
-          image: masteringmicroservice/notification
+          image: nprime/notification
           env:
             - name: SPRING_PROFILES_ACTIVE
               value: prod

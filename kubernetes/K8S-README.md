@@ -5,14 +5,14 @@
 You will need to push your image to a registry. If you have not done so, use the following commands to tag and push the images:
 
 ```
-$ docker image tag gateway masteringmicroservice/gateway
-$ docker push masteringmicroservice/gateway
-$ docker image tag invoice masteringmicroservice/invoice
-$ docker push masteringmicroservice/invoice
-$ docker image tag notification masteringmicroservice/notification
-$ docker push masteringmicroservice/notification
-$ docker image tag productorder masteringmicroservice/productorder
-$ docker push masteringmicroservice/productorder
+$ docker image tag gateway nprime/gateway
+$ docker push nprime/gateway
+$ docker image tag invoice nprime/invoice
+$ docker push nprime/invoice
+$ docker image tag notification nprime/notification
+$ docker push nprime/notification
+$ docker image tag productorder nprime/productorder
+$ docker push nprime/productorder
 ```
 
 ## Deployment

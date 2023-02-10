@@ -19,7 +19,7 @@ metadata:
   namespace: store
 type: Opaque
 data:
-  registry-admin-password: YWRtaW5tb3NpZw== # base64 encoded "adminmosig"
+  registry-admin-password: YWRtaW4= # base64 encoded "admin"
 ---
 apiVersion: v1
 kind: Service

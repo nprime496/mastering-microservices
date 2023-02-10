@@ -46,7 +46,7 @@ spec:
               done
       containers:
         - name: productorder-app
-          image: masteringmicroservice/productorder
+          image: nprime/productorder
           env:
             - name: SPRING_PROFILES_ACTIVE
               value: prod

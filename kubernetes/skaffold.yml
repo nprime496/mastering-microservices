@@ -2,16 +2,16 @@ apiVersion: skaffold/v1
 kind: Config
 build:
   artifacts:
-    - image: masteringmicroservice/gateway
+    - image: nprime/gateway
       context: ../gateway
       jib: {}
-    - image: masteringmicroservice/invoice
+    - image: nprime/invoice
       context: ../invoice
       jib: {}
-    - image: masteringmicroservice/notification
+    - image: nprime/notification
       context: ../notification
       jib: {}
-    - image: masteringmicroservice/productorder
+    - image: nprime/productorder
       context: ../productorder
       jib: {}
   tagPolicy:

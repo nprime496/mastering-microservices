@@ -7,7 +7,7 @@ metadata:
     app: productorder-postgresql
 type: Opaque
 data:
-  postgresql-password: ZjNjZTcyOTY1MzdjMzJkMWJiODJiZWUzNWYwNThhYmQ0ZjlhOWRiZTM0NzgyZDY4NzA2N2QyOWMyYTkw
+  postgresql-password: YmU1NzMyOTA4NGRiMzU1OTdjYjA1ZjI3ODEwNjYwMDM2MjNiZDBiOTQwN2NiYTU1NzFlNDk0ZDkzNzYx
 ---
 apiVersion: apps/v1
 kind: Deployment
